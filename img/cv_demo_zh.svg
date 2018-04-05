@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   sodipodi:docname="cv_demo.svg">
+   sodipodi:docname="cv_demo_zh.svg">
   <defs
      id="defs2">
     <marker
@@ -417,7 +417,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="288.13804"
+     inkscape:cx="152.42568"
      inkscape:cy="182.51119"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -482,7 +482,7 @@
          x="42.725674"
          y="100.34522"
          style="stroke-width:0.26458332px"
-         id="tspan1265">Solderless Socket Board</tspan></text>
+         id="tspan1265">免焊轉接板</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -522,7 +522,7 @@
          id="tspan844-6-6"
          x="95.911942"
          y="136.7459"
-         style="stroke-width:0.26458332px">Slider</tspan></text>
+         style="stroke-width:0.26458332px">滑軌</tspan></text>
     <path
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.08466666;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 82.507196,105.36607 v 8.75307"
@@ -542,7 +542,7 @@
          id="tspan4177-86"><tspan
            dy="0 0 0 0 0 0 0 0 0"
            id="tspan4165-0"
-           style="font-size:2.11666656px;stroke-width:0.26458332px">CDNET / CDBUS Protocol</tspan></tspan></text>
+           style="font-size:2.11666656px;stroke-width:0.26458332px">CDNET / CDBUS 協議</tspan></tspan></text>
     <rect
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="rect842-0-89"
@@ -553,14 +553,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="131.75156"
+       x="135.72995"
        y="141.71895"
        id="text846-3-7"><tspan
          sodipodi:role="line"
          id="tspan844-6-7"
-         x="131.75156"
+         x="135.72995"
          y="141.71895"
-         style="stroke-width:0.26458332px">USB Serial Port</tspan></text>
+         style="stroke-width:0.26458332px">USB 串口</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -616,25 +616,25 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="131.75154"
+       x="135.72995"
        y="127.39258"
        id="text850-6-1-0"><tspan
          sodipodi:role="line"
-         x="131.75154"
+         x="135.72995"
          y="127.39258"
          style="stroke-width:0.26458332px"
-         id="tspan852-9-1-5">USB Serial Port</tspan></text>
+         id="tspan852-9-1-5">USB 串口</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="132.79196"
+       x="133.27116"
        y="121.08865"
        id="text846-6-1-6-5-9"><tspan
          sodipodi:role="line"
-         x="132.79196"
+         x="133.27116"
          y="121.08865"
          style="stroke-width:0.26458332px"
-         id="tspan1265-5-9-4">(Bridge mode)</tspan></text>
+         id="tspan1265-5-9-4">（橋接模式）</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -706,14 +706,14 @@
          id="tspan1265-0-2">RTSP</tspan><tspan
          sodipodi:role="line"
          x="19.988729"
-         y="64.323013"
+         y="64.559013"
          style="text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-         id="tspan8792">Video</tspan><tspan
+         id="tspan8790">視頻</tspan><tspan
          sodipodi:role="line"
          x="19.988729"
-         y="67.850792"
+         y="68.322784"
          style="text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-         id="tspan8790">Server</tspan></text>
+         id="tspan1082">服務器</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -724,23 +724,23 @@
          x="39.763233"
          y="62.596333"
          style="text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-         id="tspan8798">Slider</tspan><tspan
+         id="tspan8807">滑軌</tspan><tspan
          sodipodi:role="line"
          x="39.763233"
-         y="66.124107"
+         y="66.360107"
          style="text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-         id="tspan8807">Master</tspan></text>
+         id="tspan1078">控制程序</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="133.07103"
+       x="136.09789"
        y="150.39522"
        id="text846-3-6-6-6"><tspan
          sodipodi:role="line"
          id="tspan844-6-6-4-5"
-         x="133.07103"
+         x="136.09789"
          y="150.39522"
-         style="stroke-width:0.26458332px">Video Monitor</tspan></text>
+         style="stroke-width:0.26458332px">視頻監控</tspan></text>
     <rect
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:0.1, 0.4;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="rect8831"
@@ -758,11 +758,6 @@
          y="89.540382"
          x="114.24524"
          sodipodi:role="line"
-         id="tspan8851">Optional, disconnecting the PC</tspan><tspan
-         style="stroke-width:0.26458332px"
-         y="93.068161"
-         x="114.24524"
-         sodipodi:role="line"
-         id="tspan1078">will not affect the demo operation.</tspan></text>
+         id="tspan8851">可選，斷開電腦也不影響場景運作</tspan></text>
   </g>
 </svg>

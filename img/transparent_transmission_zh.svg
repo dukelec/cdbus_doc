@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   sodipodi:docname="transparent_transmission.svg">
+   sodipodi:docname="transparent_transmission_zh.svg">
   <defs
      id="defs2">
     <marker
@@ -447,15 +447,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="247.44904"
-     inkscape:cy="222.82755"
+     inkscape:cx="337.70462"
+     inkscape:cy="266.38456"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1742"
      inkscape:window-height="962"
      inkscape:window-x="168"
-     inkscape:window-y="36"
+     inkscape:window-y="197"
      inkscape:window-maximized="0"
      fit-margin-top="1"
      fit-margin-bottom="1"
@@ -475,7 +475,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -503,7 +503,7 @@
          id="tspan4177-86"><tspan
            dy="0"
            id="tspan4165-0"
-           style="font-size:2.11666656px;stroke-width:0.26458332px">CDBUS Protocol</tspan></tspan></text>
+           style="font-size:2.11666656px;stroke-width:0.26458332px">CDBUS 協議</tspan></tspan></text>
     <g
        id="g4708">
       <rect
@@ -516,25 +516,25 @@
       <text
          id="text846-3-7"
          y="141.71895"
-         x="121.47854"
+         x="125.17279"
          style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            style="stroke-width:0.26458332px"
            y="141.71895"
-           x="121.47854"
+           x="125.17279"
            id="tspan844-6-7"
-           sodipodi:role="line">Serial Port</tspan></text>
+           sodipodi:role="line">串口</tspan></text>
       <text
          id="text846-3-6-6"
          y="164.57216"
-         x="134.50955"
+         x="140.85947"
          style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            style="stroke-width:0.26458332px"
            y="164.57216"
-           x="134.50955"
+           x="140.85947"
            id="tspan844-6-6-4"
-           sodipodi:role="line">Equipment3</tspan></text>
+           sodipodi:role="line">設備3</tspan></text>
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
@@ -582,37 +582,37 @@
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           x="75.857468"
+           x="79.695999"
            y="127.39258"
            id="text850-6-1-0"><tspan
              sodipodi:role="line"
-             x="75.857468"
+             x="79.695999"
              y="127.39258"
              style="stroke-width:0.26458332px"
-             id="tspan852-9-1-5">Serial Port</tspan></text>
+             id="tspan852-9-1-5">串口</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           x="74.816353"
+           x="72.624916"
            y="121.08865"
            id="text846-6-1-6-5-9"><tspan
              sodipodi:role="line"
-             x="74.816353"
+             x="72.624916"
              y="121.08865"
              style="stroke-width:0.26458332px"
-             id="tspan1265-5-9-4">(Raw mode)</tspan></text>
+             id="tspan1265-5-9-4">（裸數據模式）</tspan></text>
       </g>
       <text
          id="text846-3-4-3-6"
          y="133.92081"
-         x="115.32215"
+         x="116.90966"
          style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            id="tspan4177-8-9"
            style="font-size:2.11666656px;stroke-width:0.26458332px"
            y="133.92081"
-           x="115.32215"
-           sodipodi:role="line">Any Protocol</tspan></text>
+           x="116.90966"
+           sodipodi:role="line">任意協議</tspan></text>
     </g>
     <g
        transform="translate(90.953584)"
@@ -627,25 +627,25 @@
       <text
          id="text846-3-47"
          y="141.71895"
-         x="76.001747"
+         x="79.695999"
          style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            style="stroke-width:0.26458332px"
            y="141.71895"
-           x="76.001747"
+           x="79.695999"
            id="tspan844-6-75"
-           sodipodi:role="line">Serial Port</tspan></text>
+           sodipodi:role="line">串口</tspan></text>
       <text
          id="text846-3-6-4"
          y="164.57216"
-         x="89.032768"
+         x="95.382774"
          style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            style="stroke-width:0.26458332px"
            y="164.57216"
-           x="89.032768"
+           x="95.382774"
            id="tspan844-6-6-8"
-           sodipodi:role="line">Equipment4</tspan></text>
+           sodipodi:role="line">設備4</tspan></text>
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
@@ -692,81 +692,81 @@
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           x="75.857468"
+           x="79.695999"
            y="127.39258"
            id="text850-6-1-2"><tspan
              sodipodi:role="line"
-             x="75.857468"
+             x="79.695999"
              y="127.39258"
              style="stroke-width:0.26458332px"
-             id="tspan852-9-1-1">Serial Port</tspan></text>
+             id="tspan852-9-1-1">串口</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           x="74.816353"
+           x="72.624916"
            y="121.08865"
            id="text846-6-1-6-5-0"><tspan
              sodipodi:role="line"
-             x="74.816353"
+             x="72.624916"
              y="121.08865"
              style="stroke-width:0.26458332px"
-             id="tspan1265-5-9-5">(Raw mode)</tspan></text>
+             id="tspan1265-5-9-5">（裸數據模式）</tspan></text>
       </g>
       <text
          id="text846-3-4-3-1"
          y="133.92081"
-         x="69.84536"
+         x="71.432861"
          style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            id="tspan4177-8-1"
            style="font-size:2.11666656px;stroke-width:0.26458332px"
            y="133.92081"
-           x="69.84536"
-           sodipodi:role="line">Any Protocol</tspan></text>
+           x="71.432861"
+           sodipodi:role="line">任意協議</tspan></text>
     </g>
     <g
        id="g7277"
-       transform="translate(12.170835,4.2333335)">
+       transform="translate(11.112501,2.1166667)">
       <text
          id="text1106-4-8"
          y="60.182896"
-         x="100.84267"
+         x="107.19267"
          style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            id="tspan1126-0-4"
            style="stroke-width:0.26458332px"
            y="60.182896"
-           x="100.84267"
-           sodipodi:role="line">Equipment1</tspan></text>
+           x="107.19267"
+           sodipodi:role="line">設備1</tspan></text>
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path1564-62"
-         d="m 119.74845,59.5049 h 5.64602"
+         d="m 118.92714,59.5049 h 5.64602"
          style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#TriangleInL-5);marker-end:url(#TriangleOutL-6)" />
       <text
          id="text846-3-6-3"
          y="60.234573"
-         x="129.13217"
+         x="129.13219"
          style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            style="stroke-width:0.26458332px"
            y="60.234573"
-           x="129.13217"
+           x="129.13219"
            id="tspan844-6-6-40"
-           sodipodi:role="line">Equipment3</tspan></text>
+           sodipodi:role="line">設備3</tspan></text>
     </g>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="108.21458"
-       y="58.761612"
+       x="107.15625"
+       y="56.644943"
        id="text7066"><tspan
          sodipodi:role="line"
          id="tspan7064"
-         x="108.21458"
-         y="58.761612"
-         style="stroke-width:0.26458332px">For example, bind as follows:</tspan></text>
+         x="107.15625"
+         y="56.644943"
+         style="stroke-width:0.26458332px">例如，可以任意綁定以下兩組互通：</tspan></text>
     <g
        id="g7184">
       <rect
@@ -780,25 +780,25 @@
       <text
          id="text846-3-3"
          y="71.018829"
-         x="23.921637"
+         x="27.615889"
          style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            style="stroke-width:0.26458332px"
            y="71.018829"
-           x="23.921637"
+           x="27.615889"
            id="tspan844-6-2"
-           sodipodi:role="line">Serial Port</tspan></text>
+           sodipodi:role="line">串口</tspan></text>
       <text
          id="text846-3-6-1"
          y="76.711708"
-         x="36.95266"
+         x="43.302666"
          style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            style="stroke-width:0.26458332px"
            y="76.711708"
-           x="36.95266"
+           x="43.302666"
            id="tspan844-6-6-5"
-           sodipodi:role="line">Equipment1</tspan></text>
+           sodipodi:role="line">設備1</tspan></text>
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
@@ -843,36 +843,36 @@
       <text
          id="text850-6-1-8"
          y="85.307991"
-         x="23.777353"
+         x="27.615889"
          style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            id="tspan852-9-1-7"
            style="stroke-width:0.26458332px"
            y="85.307991"
-           x="23.777353"
-           sodipodi:role="line">Serial Port</tspan></text>
+           x="27.615889"
+           sodipodi:role="line">串口</tspan></text>
       <text
          id="text846-6-1-6-5-04"
          y="91.319519"
-         x="22.736242"
+         x="20.544802"
          style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            id="tspan1265-5-9-8"
            style="stroke-width:0.26458332px"
            y="91.319519"
-           x="22.736242"
-           sodipodi:role="line">(Raw mode)</tspan></text>
+           x="20.544802"
+           sodipodi:role="line">（裸數據模式）</tspan></text>
       <text
          id="text846-3-4-3-0"
          y="77.894028"
-         x="17.765249"
+         x="19.352751"
          style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            id="tspan4177-8-4"
            style="font-size:2.11666656px;stroke-width:0.26458332px"
            y="77.894028"
-           x="17.765249"
-           sodipodi:role="line">Any Protocol</tspan></text>
+           x="19.352751"
+           sodipodi:role="line">任意協議</tspan></text>
     </g>
     <g
        transform="translate(46.259273,0.01181)"
@@ -888,25 +888,25 @@
       <text
          id="text846-3-3-6"
          y="71.018829"
-         x="23.921637"
+         x="27.615889"
          style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            style="stroke-width:0.26458332px"
            y="71.018829"
-           x="23.921637"
+           x="27.615889"
            id="tspan844-6-2-1"
-           sodipodi:role="line">Serial Port</tspan></text>
+           sodipodi:role="line">串口</tspan></text>
       <text
          id="text846-3-6-1-0"
          y="76.711708"
-         x="36.95266"
+         x="43.302666"
          style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            style="stroke-width:0.26458332px"
            y="76.711708"
-           x="36.95266"
+           x="43.302666"
            id="tspan844-6-6-5-4"
-           sodipodi:role="line">Equipment2</tspan></text>
+           sodipodi:role="line">設備2</tspan></text>
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
@@ -951,68 +951,68 @@
       <text
          id="text850-6-1-8-9"
          y="85.307991"
-         x="23.777353"
+         x="27.615889"
          style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            id="tspan852-9-1-7-0"
            style="stroke-width:0.26458332px"
            y="85.307991"
-           x="23.777353"
-           sodipodi:role="line">Serial Port</tspan></text>
+           x="27.615889"
+           sodipodi:role="line">串口</tspan></text>
       <text
          id="text846-6-1-6-5-04-2"
          y="91.319519"
-         x="22.736242"
+         x="20.544802"
          style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            id="tspan1265-5-9-8-8"
            style="stroke-width:0.26458332px"
            y="91.319519"
-           x="22.736242"
-           sodipodi:role="line">(Raw mode)</tspan></text>
+           x="20.544802"
+           sodipodi:role="line">（裸數據模式）</tspan></text>
       <text
          id="text846-3-4-3-0-3"
          y="77.894028"
-         x="17.765249"
+         x="19.352751"
          style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            id="tspan4177-8-4-8"
            style="font-size:2.11666656px;stroke-width:0.26458332px"
            y="77.894028"
-           x="17.765249"
-           sodipodi:role="line">Any Protocol</tspan></text>
+           x="19.352751"
+           sodipodi:role="line">任意協議</tspan></text>
     </g>
     <g
-       transform="translate(12.170835,8.3611551)"
+       transform="translate(11.112501,6.2444883)"
        id="g7277-5">
       <text
          id="text1106-4-8-4"
          y="60.182896"
-         x="100.84267"
+         x="107.19267"
          style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            id="tspan1126-0-4-4"
            style="stroke-width:0.26458332px"
            y="60.182896"
-           x="100.84267"
-           sodipodi:role="line">Equipment2</tspan></text>
+           x="107.19267"
+           sodipodi:role="line">設備2</tspan></text>
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path1564-62-9"
-         d="m 119.74845,59.5049 h 5.64602"
+         d="m 118.92507,59.5049 h 5.64602"
          style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#TriangleInL-5-04);marker-end:url(#TriangleOutL-6-19)" />
       <text
          id="text846-3-6-3-9"
          y="60.234573"
-         x="129.13217"
+         x="129.13219"
          style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            style="stroke-width:0.26458332px"
            y="60.234573"
-           x="129.13217"
+           x="129.13219"
            id="tspan844-6-6-40-3"
-           sodipodi:role="line">Equipment4</tspan></text>
+           sodipodi:role="line">設備4</tspan></text>
     </g>
   </g>
 </svg>
