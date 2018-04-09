@@ -9,17 +9,17 @@ If you don't know much about related fields, imagine using it as an alternative 
 
 
 
-## CDBUS Protocol for Asynchronous Serial Communication -- simple, common, flexible, efficient, safe and open
+## Open source, ultra-simple RS485 peer-to-peer communication - CDBUS (video-capable)
 
 ### Simple:
  - The most simple protocol, it works at a glance;
- - Trivial tasks are taken over by hardware, reducing the workload of developers and CPUs, and accelerating project development;
+ - Trivial tasks are taken over by hardware, save your time and CPU usage;
  - With the upper layer CDNET protocol stack, it can automatically handle flow control, integrity, data fragment and etc, and can also set up multiple networks (CDNET is a compact, real-time, efficient upper layer protocol for CDBUS).
 
 ### Common:
  - CDBUS based on the most common Asynchronous Serial Communication, can be used for bus or ordinary serial communication;
- - Use standard RS-485 interface chip and circuit (This is the most used scenario, other scenarios include single-wire serial bus);
- - Backward compatible with traditional RS-485 hardware;
+ - Use standard RS485 interface chip and circuit (This is the most used scenario, other scenarios include single-wire serial bus);
+ - Backward compatible with traditional RS485 hardware;
  - With CDNET-TUN tools, protocols such as IPv4/v6 can be supported to facilitate IoT applications and connect seamlessly to various wired and wireless networks.
 
 ### Flexible:
@@ -27,8 +27,8 @@ If you don't know much about related fields, imagine using it as an alternative 
  - Hot-swappable, for example, arm end tools can be replaced automatically.
 
 ### Efficient:
- - Basic stand-alone controller CDCTL-Bx supports 10Mbps rate (Exchange data between controller and CPU could through 20MHz SPI interface with DMA);
- - Simultaneous reading and writing: The host continuously issues commands to multiple devices, and then continuously receives responses, avoid that the delay of the command is amplified by N times the number of devices in traditional RS-485;
+ - Basic stand-alone controller CDCTL-Bx supports 10Mbps rate (Exchange data between controller and CPU could through 20MHz SPI interface with DMA) (There are also high speed versions available);
+ - Simultaneous reading and writing: The host continuously issues commands to multiple devices, and then continuously receives responses, avoid that the delay of the command is amplified by N times the number of devices in traditional RS485;
  - Video transmission and motion control can use a single bus to avoid complicated wiring problems (Recommended for visual processing on the camera side, video transmission is only for preview so that more video can be transmitted);
  - High synchronization: Synchronizes the operation of each node by broadcasting at the speed of light (There is no forwarding delay like EtherCAT and it avoids the complicated synchronization problems).
 
@@ -43,9 +43,14 @@ If you don't know much about related fields, imagine using it as an alternative 
 
 
 
+## Applications
+
+Petroleum Exploration, Coal Mining, Robotics, Robotic Arms, Autopilot, Medical Instruments, Industrial Automation, Smart Home ...
+
+
 ## Demos
 
-### RS-485 Prevent Fake Cat Invasion (Peer-to-peer network video surveillance)
+### RS485 Prevent Fake Cat Invasion (Peer-to-peer network video surveillance)
 <img alt="cv_demo" src="img/cv_demo.jpg" width="90%">
 
 Full video:
@@ -80,7 +85,7 @@ You can also transparently transmit serial data through pure hardware without ad
  - CDCTL-Bx module (I<sup>2</sup>C/SPI basic type) (There are also blank modules available)
  - CDCTL-Bx-Socket (Solderless socket board)
  - CDBUS-Bridge
- - Booking: CDCTL-Hx (SPI high speed type), CDCTL-Px (Mini-PCIe type)
+ - Booking: CDCTL-Hx (SPI high speed type), CDCTL-MPx (M-PCIe type)
  - Contact Us: http://dukelec.com/en/#contact
 
 
