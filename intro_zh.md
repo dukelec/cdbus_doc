@@ -1,11 +1,7 @@
 
 ## 前言
 
-當我們需要傳遞信息的時候就會涉及到通訊，通訊大致分爲兩類：有線通訊及無線通訊。
-有線通訊譬如通過 U 盤拷貝文件、通過 HDMI 觀看影視；無線通訊譬如手機 WiFi 上網、腦電波心靈感應，
-有沒有覺得後者明顯不夠穩定，沒錯，接下來介紹的通訊協議便是用於有線通訊，面向的是工業等對可靠性要求很高的場合，
-如果你對相關領域不甚了解，可以想象一下通過它來替代網線上網，至少我經常通過它觀看 YouTube.
-
+我們創建了 CDBUS 協議和世界上第一款支持對等通訊的 RS485 控制器，她非常簡單，解決了 RS485 通訊中困擾了人們很久的最常見又最令人頭痛的問題，我們把她開源，希望更多人從中受益。
 
 
 ## 開源・極簡 RS485 對等通訊 — 可傳視頻的 CDBUS
@@ -94,7 +90,7 @@ Raspberry Pi 上方的人頭板是 CDCTL-Bx 配套的免焊接轉接板，使用
  - CDCTL-Bx Datasheet: http://dukelec.com/en/download.html
  - CDNET 協議及代碼庫: https://github.com/dukelec/cdnet
  - CDNET-TUN: https://github.com/dukelec/cdnet_tun
- - CDBUS-Bridge: https://github.com/dukelec/cdbus_bridge_fw
+ - CDBUS-Bridge: https://github.com/dukelec/cdbus_bridge
  - 更多資源: https://github.com/dukelec?tab=repositories
 
 

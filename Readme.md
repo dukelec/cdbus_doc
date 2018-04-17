@@ -1,12 +1,7 @@
 
 ## Preface
 
-When we need to transmit information, it involves communication.
-Communication can be roughly divided into two categories: Wired communication and wireless communication.
-Wired communication, such as copying files via U disk, viewing video via HDMI, wireless communication such as mobile WiFi, brain telepathy.
-Do you think that the latter is obviously not stable enough? Yes, the communication protocol introduced in the next section is for wired communication, and it is for industrial applications that require high reliability.
-If you don't know much about related fields, imagine using it as an alternative to Ethernet, at least I often watch YouTube through it.
-
+We create the CDBUS protocol and the world first controller for RS485 peer-to-peer communication, which is very simple, and solves the most common and most headache problem that RS485 has been facing for a long time. We open source it and hope that more people will benefit from it.
 
 
 ## Open source, ultra-simple RS485 peer-to-peer communication - CDBUS (video-capable)
@@ -94,7 +89,7 @@ You can also transparently transmit serial data through pure hardware without ad
  - CDCTL-Bx Datasheet: http://dukelec.com/en/download.html
  - CDNET Protocol and library: https://github.com/dukelec/cdnet
  - CDNET-TUN: https://github.com/dukelec/cdnet_tun
- - CDBUS-Bridge: https://github.com/dukelec/cdbus_bridge_fw
+ - CDBUS-Bridge: https://github.com/dukelec/cdbus_bridge
  - More resources: https://github.com/dukelec?tab=repositories
 
 
