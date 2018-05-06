@@ -81,6 +81,7 @@ You can also transparently transmit serial data through pure hardware without ad
  - CDCTL-Bx-Socket (Solderless socket board)
  - CDBUS-Bridge
  - Booking: CDCTL-Hx (SPI high speed type), CDCTL-MPx (M-PCIe type)
+ - **Ongoing crowdfunding campaign:** https://www.indiegogo.com/projects/world-first-rs-485-peer-to-peer-controller
  - Contact Us: http://dukelec.com/en/#contact
 
 
@@ -90,6 +91,8 @@ You can also transparently transmit serial data through pure hardware without ad
  - CDNET Protocol and library: https://github.com/dukelec/cdnet
  - CDNET-TUN: https://github.com/dukelec/cdnet_tun
  - CDBUS-Bridge: https://github.com/dukelec/cdbus_bridge
+ - CDCTL and Socket board schematics: https://github.com/dukelec/cdpga
+ - CDBITE how to use and made: <a href=./cdbite>./cdbite</a>
  - More resources: https://github.com/dukelec?tab=repositories
 
 

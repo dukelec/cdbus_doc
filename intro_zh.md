@@ -82,6 +82,7 @@ Raspberry Pi 上方的人頭板是 CDCTL-Bx 配套的免焊接轉接板，使用
  - CDCTL-Bx-Socket 人頭免焊轉接板
  - CDBUS-Bridge 盒子
  - 預訂：CDCTL-Hx (SPI 高速版本), CDCTL-MPx (M-PCIe 接口)
+ - **衆籌火熱進行中:** https://www.indiegogo.com/projects/world-first-rs-485-peer-to-peer-controller
  - 聯絡我們：http://dukelec.com/en/#contact
 
 
@@ -91,6 +92,8 @@ Raspberry Pi 上方的人頭板是 CDCTL-Bx 配套的免焊接轉接板，使用
  - CDNET 協議及代碼庫: https://github.com/dukelec/cdnet
  - CDNET-TUN: https://github.com/dukelec/cdnet_tun
  - CDBUS-Bridge: https://github.com/dukelec/cdbus_bridge
+ - CDCTL 和 Socket 轉接板電路圖: https://github.com/dukelec/cdpga
+ - CDBITE 使用和製作說明: <a href=./cdbite>./cdbite</a>
  - 更多資源: https://github.com/dukelec?tab=repositories
 
 
