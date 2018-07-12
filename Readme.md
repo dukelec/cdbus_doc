@@ -80,8 +80,8 @@ You can also transparently transmit serial data through pure hardware without ad
  - CDCTL-Bx module (I<sup>2</sup>C/SPI basic type) (There are also blank modules available)
  - CDCTL-Bx-Socket (Solderless socket board)
  - CDBUS-Bridge
- - Booking: CDCTL-Hx (SPI high speed type), CDCTL-MPx (M-PCIe type)
- - **Ongoing crowdfunding campaign:** https://www.indiegogo.com/projects/world-first-rs-485-peer-to-peer-controller
+ - CDCTL-Hx (SPI high speed type)
+ - Booking: CDCTL-MPx (M-PCIe type)
  - Contact Us: http://dukelec.com/en/#contact
 
 
