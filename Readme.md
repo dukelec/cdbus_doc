@@ -18,11 +18,11 @@ We create the CDBUS protocol and the world first controller for RS485 peer-to-pe
  - With CDNET-TUN tools, protocols such as IPv4/v6 can be supported to facilitate IoT applications and connect seamlessly to various wired and wireless networks.
 
 ### Flexible:
- - Support multi-host, concurrent read and write, broadcast, free reporting and etc;
+ - Support multi-host, concurrent read and write, multicast, broadcast, free reporting and etc;
  - Hot-swappable, for example, arm end tools can be replaced automatically.
 
 ### Efficient:
- - Basic stand-alone controller CDCTL-Bx supports 10Mbps rate (Exchange data between controller and CPU could through 20MHz SPI interface with DMA) (There are also high speed versions available);
+ - Basic stand-alone controller CDCTL-Bx supports 10Mbps rate (Exchange data between controller and CPU could through 20MHz SPI interface with DMA) (There is also a 40Mbps version available);
  - Simultaneous reading and writing: The host continuously issues commands to multiple devices, and then continuously receives responses, avoid that the delay of the command is amplified by N times the number of devices in traditional RS485;
  - Video transmission and motion control can use a single bus to avoid complicated wiring problems (Recommended for visual processing on the camera side, video transmission is only for preview so that more video can be transmitted);
  - High synchronization: Synchronizes the operation of each node by broadcasting at the speed of light (There is no forwarding delay like EtherCAT and it avoids the complicated synchronization problems).
@@ -81,7 +81,7 @@ You can also transparently transmit serial data through pure hardware without ad
  - CDCTL-Bx-Socket (Solderless socket board)
  - CDBUS-Bridge
  - CDCTL-Hx (SPI high speed type)
- - Booking: CDCTL-MPx (M-PCIe type)
+ - Booking: CDCTL-Px (M-PCIe type)
  - Contact Us: http://dukelec.com/en/#contact
 
 
