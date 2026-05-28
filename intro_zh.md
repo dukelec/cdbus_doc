@@ -28,7 +28,7 @@ CDBUS 控制器 CDCTL01A 为 QFN 3x3mm 封装，通讯速率高达 50 Mbps (5000
 ## 资源列表
 
  - CDBUS 协议及 IP 核: https://cdbus.org
- - CDCTL01A 芯片手册: https://dukelec.com/en/download.html
+ - CDCTL01A 芯片手册、示例代码: https://dukelec.com/en/download.html
  - CDCTL01A 芯片 FAQ: https://github.com/dukelec/cdbus_doc/wiki/CDCTL01A-芯片-FAQ-中文版  
  - CDNET 协议及代码库: https://github.com/dukelec/cdnet
  - CDBUS-Bridge: https://github.com/dukelec/cdbus_bridge  
@@ -39,6 +39,8 @@ CDBUS 控制器 CDCTL01A 为 QFN 3x3mm 封装，通讯速率高达 50 Mbps (5000
    FOC 无刷电机控制器
  - CDCAM: https://github.com/dukelec/cdcam  
    RS-485 / CDBUS JPEG 摄像头
+ - CD-ESP: https://github.com/dukelec/cd_esp  
+   蓝牙 BLE 和 WiFi UDP 网关
  - CDPNP: https://github.com/dukelec/cdpnp  
    半自动桌面贴片机
  - CDBUS-GUI: https://github.com/dukelec/cdbus_gui  

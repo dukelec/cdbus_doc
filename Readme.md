@@ -39,7 +39,7 @@ Some MCUs / CPUs also come with built-in CDBUS controllers.
 ## Resource List
 
  - CDBUS Protocol and IP Core: https://cdbus.org
- - CDCTL01A Datasheet: https://dukelec.com/en/download.html
+ - CDCTL01A Datasheet, code example: https://dukelec.com/en/download.html
  - CDNET: https://github.com/dukelec/cdnet  
    CDNET Protocol and CDBUS / CDNET C Library
  - CDBUS-Bridge: https://github.com/dukelec/cdbus_bridge  
@@ -50,6 +50,8 @@ Some MCUs / CPUs also come with built-in CDBUS controllers.
    FOC Motor Controller
  - CDCAM: https://github.com/dukelec/cdcam  
    RS-485 / CDBUS JPEG Camera
+ - CD-ESP: https://github.com/dukelec/cd_esp  
+   BLE and WiFi UDP Gateway
  - CDPNP: https://github.com/dukelec/cdpnp  
    Compact desktop semi-automatic SMT prototyping machine
  - CDBUS-GUI: https://github.com/dukelec/cdbus_gui  
